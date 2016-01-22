@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSString *str = @"cell";
+    NSDictionary *dic = nil;
 }
 
 - (void)didReceiveMemoryWarning {
