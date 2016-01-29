@@ -20,6 +20,7 @@
     NSString *str = @"cell";
     NSDictionary *dic = nil;
     NSString *whc = @"whc finally did it";
+    NSString *aa = nil;
 }
 
 - (void)didReceiveMemoryWarning {
